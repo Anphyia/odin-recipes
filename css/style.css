@@ -1,0 +1,21 @@
+body {
+    background-color: #242526;
+    color: orangered;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image {
+    height:auto;
+    width: 500px;
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+    color:sandybrown;
+}
+
+#description {
+    color:orange;
+    font-weight: bold;
+}
